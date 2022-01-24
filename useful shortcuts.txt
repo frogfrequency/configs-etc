@@ -1,0 +1,18 @@
+type clg then tab to have a console.log
+
+ctrl + shift + k        deletes the whole line
+
+just ctrl+c somewhere on the line without marking anything copys the whole line
+
+when something is marked ctrl + d  --> jumps to the next occurence and lets you change both at the same time
+ctrl+ shift + l or Ctrl + F2 selects all occurences
+
+remove background / make transparent background https://www.remove.bg/
+
+alt + arrow --> move current codeline up or down
+
+alt + shift + f --> auto format code
+
+ctrl + d --> if the cursor is somwhere inside a word, it marks the whole word
+
+when a part of code is marked, it can be dragged wherever you want!!! (not only up or down)

@@ -1,0 +1,45 @@
+COLOR THEME : dark+ (default theme)
+
+Name: ES7+ React/Redux/React-Native snippets
+Id: dsznajder.es7-react-js-snippets
+Description: Extensions for React, React-Native and Redux in JS/TS with ES7+ syntax. Customizable. Built-in integration with prettier.
+Version: 4.1.0
+Publisher: dsznajder
+VS Marketplace Link: https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets
+
+
+Name: Code Runner
+Id: formulahendry.code-runner
+Description: Run C, C++, Java, JS, PHP, Python, Perl, Ruby, Go, Lua, Groovy, PowerShell, CMD, BASH, F#, C#, VBScript, TypeScript, CoffeeScript, Scala, Swift, Julia, Crystal, OCaml, R, AppleScript, Elixir, VB.NET, Clojure, Haxe, Obj-C, Rust, Racket, Scheme, AutoHotkey, AutoIt, Kotlin, Dart, Pascal, Haskell, Nim, 
+Version: 0.11.6
+Publisher: Jun Han
+VS Marketplace Link: https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner
+
+
+Name: Live Server
+Id: ritwickdey.liveserver
+Description: Launch a development local Server with live reload feature for static & dynamic pages
+Version: 5.7.4
+Publisher: Ritwick Dey
+VS Marketplace Link: https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer
+
+Name: JavaScript (ES6) code snippets
+Id: xabikos.javascriptsnippets
+Description: Code snippets for JavaScript in ES6 syntax
+Version: 1.8.0
+Publisher: charalampos karypidis
+VS Marketplace Link: https://marketplace.visualstudio.com/items?itemName=xabikos.JavaScriptSnippets
+
+Name: Markdown Preview Github Styling
+Id: bierner.markdown-preview-github-styles
+Description: Changes VS Code's built-in markdown preview to match Github's style
+Version: 1.0.1
+Publisher: Matt Bierner
+VS Marketplace Link: https://marketplace.visualstudio.com/items?itemName=bierner.markdown-preview-github-styles
+
+Name: open in browser
+Id: techer.open-in-browser
+Description: This allows you to open the current file in your default browser or application.
+Version: 2.0.0
+Publisher: TechER
+VS Marketplace Link: https://marketplace.visualstudio.com/items?itemName=techer.open-in-browser
