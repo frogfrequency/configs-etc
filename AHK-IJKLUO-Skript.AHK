@@ -9,12 +9,5 @@ CapsLock & j::Send, {blind}{Left}
 CapsLock & k::Send, {blind}{Down}
 CapsLock & l::Send, {blind}{Right}
 CapsLock & i::Send, {blind}{Up}
-CapsLock & h::Send, {blind}{Backspace}
-
-
-
-
-
-
-
-// copy this into txt-document and change file to .ahk
+CapsLock & u::Send, {blind}{Backspace}
+CapsLock & o::send, {blind}{Delete}
